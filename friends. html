@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ml">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Friends Chat Join</title>
+
+<style>
+body{
+    font-family: Arial;
+    background:#0f172a;
+    color:white;
+    text-align:center;
+    padding:30px;
+}
+
+.box{
+    background:#1e293b;
+    padding:20px;
+    border-radius:10px;
+    max-width:400px;
+    margin:auto;
+}
+
+a{
+    display:block;
+    margin-top:15px;
+    padding:10px;
+    background:#22c55e;
+    color:white;
+    text-decoration:none;
+    border-radius:6px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="box">
+    <h2>👫 Friends Chat</h2>
+    <p>Click below to join Telegram group</p>
+
+    <a href="https://t.me/Malayalamchatgroups" target="_blank">
+        Join Telegram
+    </a>
+</div>
+
+</body>
+</html>
